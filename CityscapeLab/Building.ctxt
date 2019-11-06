@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Building
+comment0.text=\r\n\ draws\ a\ building\r\n\r\n\ @author\ safiyab04\r\n\ @version\ 10/14/19\r\n
+comment1.params=newColor\ newHeight\ topLeftX\ topLeftY\ newWidth
+comment1.target=Building(java.awt.Color,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @param\ newColor;\ color\ of\ building\r\n\ @param\ newHeight;\ height\ of\ building\r\n\ @param\ topLeftX;\ top\ left\ x-coordinate\ of\ building\r\n\ @param\ topLeftY;\ top\ left\ y-coordinate\ of\ building\r\n\ @param\ newWidth;\ width\ of\ building\r\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\r\n\ Draws\ building\r\n\ \r\n\ @param\ g2,\ Graphics2D\ object\r\n
+numComments=3

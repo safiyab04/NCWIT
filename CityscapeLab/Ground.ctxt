@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ground
+comment0.text=\r\n\ draws\ ground\r\n\r\n\ @author\ safiyab04\r\n\ @version\ 10/14/19\r\n
+comment1.params=
+comment1.target=Ground()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\r\n\ Draws\ ground\r\n\ \r\n\ @param\ g2,\ Graphics2D\ object\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Draws\ a\ tree\r\n\r\n\ @author\ safiyab04\r\n\ @version\ 10/14/19\r\n
+comment1.params=xTopLeft\ yTopLeft\ size
+comment1.target=Tree(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ method\ for\ tree\r\n\ \r\n\ @param\ xTopLeft,\ the\ x\ coordinate\ of\ the\ top\ left\ corner\ of\ the\ trunk\r\n\ @param\ yTopLeft,\ the\ y\ coordinate\ of\ the\ top\ left\ corner\ of\ the\ trunk\r\n\ @param\ size,\ size\ factor\ of\ tree\r\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\r\n\ Draws\ tree\r\n\ \r\n\ @param\ g2,\ Graphics2D\ object\r\n
+numComments=3
